@@ -1,4 +1,4 @@
-# Optimizing away JavaScript Obfuscation
+# Optimizing away JavaScript obfuscation
 
 ## Abstract
 
